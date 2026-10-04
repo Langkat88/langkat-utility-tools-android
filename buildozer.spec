@@ -17,6 +17,7 @@ orientation = portrait
 fullscreen = 0
 
 android.archs = arm64-v8a
+android.accept_sdk_license = True
 
 [buildozer]
 
